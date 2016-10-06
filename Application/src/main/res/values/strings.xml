@@ -16,7 +16,8 @@ limitations under the License.
 -->
 
 <resources>
-    <string name="service_name">CardEmulation Sample</string>
-    <string name="card_title">Sample Loyalty Card</string>
+    <string name="service_name">Healthcare</string>
+    <string name="card_title">Healthcare Card</string>
     <string name="account_number">Account Number</string>
+    <string name="dummy">  </string>
 </resources>

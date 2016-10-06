@@ -16,19 +16,12 @@
 -->
 
 <resources>
-    <string name="app_name">CardEmulation</string>
+    <string name="app_name">Healthcare Sample</string>
     <string name="intro_message">
         <![CDATA[
-        
-            
-            This sample demonstrates how to emulate an NFC card, using the "host card emulation"
-            feature added in Android 4.4. This sample makes the device appear as a loyalty card
-            whenever the screen is on and the user taps their device on an appropriately configured
-            NFC reader.
+        Welcome to your healthcare card application.
 
-            The "CardReader" sample can be used to read the loyalty card implemented in this sample.
-            
-        
+        Tap your phone on the reader for rebate.
         ]]>
     </string>
 </resources>
